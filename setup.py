@@ -6,12 +6,12 @@
 
 import setuptools
 
-with open('C:/Users/Hindy/Desktop/Container_DimensionalityReduction/README.md', 'r') as fh:
+with open('C:/Users/Hindy/Desktop/DimensionalityReduction/README.md', 'r') as fh:
     long_descripion = fh.read()
     
 setuptools.setup(
     name='DimensionalityReduction', 
-    version='1.1.1',
+    version='1.1.2',
     author='Hindy Yuen', 
     author_email='hindy888@hotmail.com',
     license='MIT',
