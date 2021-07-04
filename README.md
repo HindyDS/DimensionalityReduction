@@ -7,8 +7,12 @@ October 8, 2016
 
 Quick Start:
 	!pip install DimensionalityReduction
+	
 	from DimensionalityReduction import DimensionalityReduction
+	
 	dr = DimensionalityReduction()
+	
 	dr.fit(<<dataset>>, <<target_name>>)
+	
 	dr.plot()
     
