@@ -11,7 +11,7 @@ with open('C:/Users/Hindy/Desktop/Container_DimensionalityReduction/README.md', 
     
 setuptools.setup(
     name='DimensionalityReduction', 
-    version='1.1.0',
+    version='1.1.1',
     author='Hindy Yuen', 
     author_email='hindy888@hotmail.com',
     license='MIT',
